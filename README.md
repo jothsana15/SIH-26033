@@ -35,6 +35,15 @@ Benefits:
  * Use AI to predict crop demand.
  * Connect farmers and buyers through online listings.
  * Optimise delivery routes to reduce costs.
+  
+  * flowchart TD
+    A[Farmers Register] --> B[Upload Crop Details]
+    B --> C[AI Demand Prediction]
+    D[Buyers Search and Order] --> E[Match Farmers and Buyers]
+    C --> E
+    E --> F[Group Nearby Orders]
+    F --> G[Optimise Delivery Routes]
+    G --> H[Deliver Fresh Produce]
    
 ## Feasibility and Viability
  * Develop a low-cost web application using available technologies.
