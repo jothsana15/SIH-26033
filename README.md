@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 24th October 2026
+## Reference Number: 26010749
+## Name: Jothsana.V
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -20,33 +20,40 @@ Expected Solution: Create a digital marketplace that:
 • Uses AI for demand forecasting and route optimization.
 
 Benefits:
-
 • Better prices for farmers.
 • Lower prices for consumers.
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+* Connect farmers directly with consumers and bulk buyers.
+* Use AI to predict crop demand and reduce food wastage.
+* Provide transparent pricing and shared delivery to reduce costs.
+* Improve farmers' earnings and offer affordable produce to consumers.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
-
+ * Use HTML, CSS, JavaScript, Python Flask, and MySQL.
+ * Use AI to predict crop demand.
+ * Connect farmers and buyers through online listings.
+ * Optimise delivery routes to reduce costs.
+   
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+ * Develop a low-cost web application using available technologies.
+ * Challenges include limited digital knowledge and delivery delays.
+ * Provide reginal language support for easy access.
+ * Partner with local delivery services to ensure smooth transportation.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+ * Helps farmers connect with more buyers.
+ * Improves farmers' earning opportunities.
+ * Provides fresh produce at affordable prices.
+ * Reduces food wastage and transportation costs.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+ * SIH Problem Statement 26033.
+ * Government Agriculture Website:
+   https://agriwelfare.gov.in/
+ * National Agriculture Market (e-NAM):
+   https://www.enam.gov.in/
+ * Scikit-learn Documentation:
+   https://scikit-learn.org/stable/
+ * OpenStreetMap: https://www.openstreetmap.org/ 
